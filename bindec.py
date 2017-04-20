@@ -1,4 +1,3 @@
-# Binary-Converter
 
 print ("Welcome to the binary converter program")
 print("Type your number and number\'s type (2 or 10) after one space: ")
